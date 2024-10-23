@@ -3,3 +3,5 @@ This line written by developer - 2
 
 Hello
 Welcome
+
+adding a new line in s1 branch
